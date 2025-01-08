@@ -5,7 +5,8 @@ nav a{color: #a3d100;
 text-decoration: none;
 font-size: 18px;}
 
-
+.img_block img{width: 200px;
+height: 100px;}
 nav a:hover{color: white;}
 
 body{background-color: black;}
